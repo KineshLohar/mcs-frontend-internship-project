@@ -1,0 +1,84 @@
+[
+    {
+        "id" : "1",
+        "sup":"st",
+        "title":"Commencement of business",
+        "desc":"Invested shareholders must confirm payment and office address",
+        "dueDate" : "Within 180 days",
+        "penalty" : [
+            {
+                "amount": "₹50,000",
+                "info" : "for the company"
+            },
+            {
+                "amount" : "₹1000",
+                "info": "/day for directors"
+            }
+        ]
+    },
+    {
+        "id" : "2",
+        "sup":"nd",
+        "title":"Auditor Appointment",
+        "desc":"Company informs new auditor and submits ADT.1 form to ROC.",
+        "dueDate" : "Within 30 days",
+        "penalty" : [
+            {
+                "amount": "₹300",
+                "info" : "per month."
+            }
+        ]
+    },
+    {
+        "id" : "3",
+        "sup":"rd",
+        "title":"DIN eKYC",
+        "desc":"Directors share personal information for identification & verification",
+        "dueDate" : "Every Year",
+        "penalty" : [
+            {
+                "amount": "₹5000",
+                "info" : "one time"
+            }
+        ]
+    },
+    {
+        "id" : "4",
+        "sup":"th",
+        "title":"DPT-3",
+        "desc":"Company informs new auditor and submits ADT.1 form to ROC.",
+        "dueDate" : "Within 30 days",
+        "penalty" : [
+            {
+                "amount": "₹300",
+                "info" : "per month."
+            }
+        ]
+    },
+    {
+        "id" : "5",
+        "sup":"th",
+        "title":"MCA Form AOC-4",
+        "desc":"It's like an official report card for a company's documents",
+        "dueDate" : "On or before 30th November",
+        "penalty" : [
+            {
+                "amount": "₹200",
+                "info" : "per day (No upper limit)*"
+            }
+        ]
+    },
+    {
+        "id" : "6",
+        "sup":"th",
+        "title":"MCA Form MGT-7",
+        "desc":"Companies must annually report activities and finances to the registrar.",
+        "dueDate" : "On or Before 31st December",
+        "penalty" : [
+            {
+                "amount": "₹200",
+                "info" : "per day (No upper limit)*"
+            }
+        ]
+    }
+]
